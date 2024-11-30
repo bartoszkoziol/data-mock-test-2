@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+.image-container{
+
+    display: flex;
+    justify-content: center;
+    gap:1cm;
+    flex-wrap: wrap;
+}  
+.image-container{
+    display: flex;
+    justify-content: center;
+    gap:1cm;
+    flex-wrap: wrap;
+}
+
+.image-container img{
+    width:7cm;
+    height: 7cm;
+    border: 2px solid black;
+}
+
+a{
+    text-decoration: none;
+}
